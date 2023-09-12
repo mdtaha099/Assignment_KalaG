@@ -51,11 +51,5 @@ class MainActivity : AppCompatActivity() {
                 tabLayout.selectTab(tabLayout.getTabAt(position))
             }
         })
-
-
-
-
-
-
     }
 }
